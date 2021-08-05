@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_booking_assignH", "Video_booking_assignH\Video_booking_assignH.csproj", "{3A02E525-BE5F-4E6E-BC99-0029CF1792EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Video_booking_assignHTests", "Video_booking_assignHTests\Video_booking_assignHTests.csproj", "{765965E5-39F3-4D71-98B1-68CA6AD8B92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A02E525-BE5F-4E6E-BC99-0029CF1792EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A02E525-BE5F-4E6E-BC99-0029CF1792EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A02E525-BE5F-4E6E-BC99-0029CF1792EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A02E525-BE5F-4E6E-BC99-0029CF1792EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{765965E5-39F3-4D71-98B1-68CA6AD8B92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{765965E5-39F3-4D71-98B1-68CA6AD8B92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{765965E5-39F3-4D71-98B1-68CA6AD8B92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{765965E5-39F3-4D71-98B1-68CA6AD8B92F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1727ACBE-31B3-4F4C-A876-988664BC6EF7}
+	EndGlobalSection
+EndGlobal
